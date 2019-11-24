@@ -3,3 +3,6 @@ function divide(){
 }
 divide()
 
+let square=x=> Math.pow(x,2)
+
+let add=(x,y)=>x+y 
